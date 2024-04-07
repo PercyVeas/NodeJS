@@ -1,0 +1,19 @@
+
+.container-custom-icon {
+    height: 100%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.custom-icon {
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.contCart {
+    color: #ffffff;
+    height: auto;
+    margin-left: 10px;
+}
